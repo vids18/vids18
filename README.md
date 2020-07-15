@@ -2,7 +2,7 @@
 ### - 🔭 I’m currently working on Python Programming
 ### - 🌱 I’m currently learning Data Structures in Python
 ### - 👯 I’m looking to collaborate on projects that involve Machine Learning algorithms and data Visualizations in Tableau
-### - 🤔 I’m looking for help with ...
+### - 🤔 I’m looking for help with my academic skills to 
 ### - 💬 Ask me about ...
 ### - 📫 How to reach me: at my email id: chitalia.vidhi6@gmail.com
 
