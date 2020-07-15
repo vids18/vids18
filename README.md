@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### - 🔭 I’m currently working as a Summer Intern
-### - 👯 I’m looking to collaborate with companies that allows me to express myself and improve on my academic learnings of Data Analysis, SQL and Tableau into the Business world
+### - 👯 I’m looking to collaborate with companies that allows me to express my true self and improve on my academic learnings of Data Analysis, SQL and Tableau into the Business world
 ### - 📫 Reach me at my email id: chitalia.vidhi6@gmail.com and LinkedIn: https://www.linkedin.com/in/vidhichitalia/
 
 <!--
