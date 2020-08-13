@@ -1,5 +1,6 @@
 ### Hi there 👋
-### - 🔭 I’m currently working as a Summer Intern
+### - 🔭 I’m currently working as an Operations Research Intern
+### - 🌱 I’m currently learning python programming by solving problems on LeetCode
 ### - 👯 I’m looking to collaborate with companies that allows me to express my true self and improve on my academic learnings of Data Analysis, SQL and Tableau into the Business world
 ### - 📫 Reach me at my email id: chitalia.vidhi6@gmail.com and LinkedIn: https://www.linkedin.com/in/vidhichitalia/
 
@@ -8,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python Programming
+- 🔭 I’m currently working 
 - 🌱 I’m currently learning Data Structures in Python
 - 👯 I’m looking to collaborate on projects that involve Machine Learning algorithms and data Visualizations in Tableau
 - 🤔 I’m looking for help with ...
