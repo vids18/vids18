@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### - 🔭 I’m currently working as an Operations Research Intern
-### - 🌱 I’m currently learning python programming by solving problems on LeetCode
+### - 🌱 I’m currently learning data strcuctures, logic development through problem solving and participating in contest on LeetCode
 ### - 👯 I’m looking to collaborate with companies that allows me to express my true self and improve on my academic learnings of Data Analysis, SQL and Tableau into the Business world
 ### - 📫 Reach me at my email id: chitalia.vidhi6@gmail.com and LinkedIn: https://www.linkedin.com/in/vidhichitalia/
 
