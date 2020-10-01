@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🔭 I was working as a Data Science Intern (Operations) for the summer
+### - 🔭 I was working as a Data Science Intern (Operations) for the summer 2020
 ### - 🌱 I’m currently practicing MySQL, statistics, and practicing logic development through problem solving by participating in contest on LeetCode
 ### - 👯 I’m looking to collaborate with companies that allows me to express my true self and improve on my academic learnings of Data Analysis, SQL and Tableau into the Business world
 ### - 📫 Reach me at my email id: chitalia.vidhi6@gmail.com and LinkedIn: https://www.linkedin.com/in/vidhichitalia/
