@@ -1,7 +1,7 @@
 ### Hi there 👋
-### - 🔭 I was working as a Data Science Intern (Operations) for the summer 2020
-### - 🌱 I’m currently practicing MySQL, statistics, and problem-solving
-### - 👯 I’m looking to collaborate with companies that allows me to express my true self and improve on my academic learnings of Data Analysis, SQL and Tableau into the Business world
+### - 🔭 I worked as a Data Science Intern (Operations) for the summer 2020
+### - 🌱 I’m currently upskilling my SQL, statistics, Machine learning and NLP, and problem-solving skills
+### - 👯 I’m looking to collaborate with companies that allows me to express my true self and improve on my academic learnings of Data Science Analysis, SQL and Tableau into the Business world
 ### - 📫 Reach me at my email id: chitalia.vidhi6@gmail.com and LinkedIn: https://www.linkedin.com/in/vidhichitalia/
 
 <!--
