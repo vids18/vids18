@@ -1,7 +1,6 @@
 ### Hi there 👋
-### - 🔭 I worked as a Data Science Intern (Operations) for the summer 2020
-### - 🌱 I’m currently upskilling my SQL, statistics, Machine learning and NLP, and problem-solving skills
-### - 👯 I’m looking to collaborate with companies that allows me to express my true self and improve on my academic learnings of Data Science Analysis, SQL and Tableau into the Business world
+### - 🔭 I'm currently working as a Sr Analyst with the Product Management team at UM Worldwide.
+### - 🌱 I have graduated with a Master's degree in IT and Analytics from Rutgers University in December 2020.
 ### - 📫 Reach me at my email id: chitalia.vidhi6@gmail.com and LinkedIn: https://www.linkedin.com/in/vidhichitalia/
 
 <!--
